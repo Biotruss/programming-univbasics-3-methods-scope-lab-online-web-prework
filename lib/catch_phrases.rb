@@ -10,7 +10,7 @@ def toadstool
 end
 
 def link
-  
+  puts 
 def any_phrase(phrase)
   phrase = "Do A Barrel Roll!"
   puts phrase
